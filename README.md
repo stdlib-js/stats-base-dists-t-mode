@@ -67,7 +67,7 @@ The [mode][mode] for a [Student's t][t-distribution] random variable with degree
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@v0.1.1-esm/index.mjs';
 ```
 
 #### mode( v )
@@ -117,7 +117,7 @@ var y = mode( -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@v0.1.1-esm/index.mjs';
 
 var v;
 var y;
