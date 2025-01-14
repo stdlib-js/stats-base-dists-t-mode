@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-29)
+## Unreleased (2025-01-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8a5caba`](https://github.com/stdlib-js/stdlib/commit/8a5caba090beccf502d1d66e31e5c7986dc52e3a) - **docs:** update related packages sections [(#4739)](https://github.com/stdlib-js/stdlib/pull/4739) _(by stdlib-bot)_
 -   [`3736294`](https://github.com/stdlib-js/stdlib/commit/373629481f148dd502a1ee4502c8748a470c1946) - **feat:** add C implementation for `stats/base/dists/t/mode` [(#3913)](https://github.com/stdlib-js/stdlib/pull/3913) _(by Aadish Jain)_
 
 </details>
