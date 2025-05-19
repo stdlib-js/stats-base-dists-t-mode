@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-05-19)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`25d7bde`](https://github.com/stdlib-js/stdlib/commit/25d7bde2ce5093d6ce2168c5cce57df6ecd70f14) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8a5caba`](https://github.com/stdlib-js/stdlib/commit/8a5caba090beccf502d1d66e31e5c7986dc52e3a) - **docs:** update related packages sections [(#4739)](https://github.com/stdlib-js/stdlib/pull/4739) _(by stdlib-bot)_
 -   [`3736294`](https://github.com/stdlib-js/stdlib/commit/373629481f148dd502a1ee4502c8748a470c1946) - **feat:** add C implementation for `stats/base/dists/t/mode` [(#3913)](https://github.com/stdlib-js/stdlib/pull/3913) _(by Aadish Jain)_
@@ -48,9 +49,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aadish Jain
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
