@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-16)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`321490b`](https://github.com/stdlib-js/stdlib/commit/321490b2c4b3de26ca049685f433230a75d648ed) - **test:** align test descriptions between main and native test files _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`25d7bde`](https://github.com/stdlib-js/stdlib/commit/25d7bde2ce5093d6ce2168c5cce57df6ecd70f14) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8a5caba`](https://github.com/stdlib-js/stdlib/commit/8a5caba090beccf502d1d66e31e5c7986dc52e3a) - **docs:** update related packages sections [(#4739)](https://github.com/stdlib-js/stdlib/pull/4739) _(by stdlib-bot)_
