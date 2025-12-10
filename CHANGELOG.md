@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-01)
+## Unreleased (2025-12-10)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3876](https://github.com/stdlib-js/stdlib/issues/3876)
+[#3876](https://github.com/stdlib-js/stdlib/issues/3876), [#4988](https://github.com/stdlib-js/stdlib/issues/4988)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4b9e370`](https://github.com/stdlib-js/stdlib/commit/4b9e370719620bef34b850abf218d4d065e650d8) - **bench:** refactor random number generation in `stats/base/dists/t` [(#8833)](https://github.com/stdlib-js/stdlib/pull/8833) _(by Sagar Ratna Chaudhary)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
@@ -53,11 +54,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aadish Jain
 -   Karan Anand
 -   Philipp Burckhardt
+-   Sagar Ratna Chaudhary
 
 </section>
 
