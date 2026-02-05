@@ -67,7 +67,7 @@ The [mode][mode] for a [Student's t][t-distribution] random variable with degree
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@v0.3.1-esm/index.mjs';
 ```
 
 #### mode( v )
@@ -117,7 +117,7 @@ var y = mode( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mode@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
